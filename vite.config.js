@@ -9,10 +9,8 @@ export default defineConfig({
     host: '0.0.0.0'
   },
 
-  preview: {
-    host: '0.0.0.0',
-    allowedHosts: [
-      'portfolio-ya44.onrender.com'
-    ]
-  }
+preview: {
+  host: '0.0.0.0',
+  allowedHosts: ['portfolio-ya44.onrender.com']
+}
 })
