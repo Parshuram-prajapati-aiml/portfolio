@@ -2,7 +2,7 @@
 
 A modern developer portfolio built with React, Vite and Tailwind-inspired utilities. It showcases projects (web, desktop, and ML), contact form integration, and smooth interactive animations using GSAP and Lenis.
 
-Live demo: https://parshfolio.onrender.com
+Live demo: https://portfolio-ya44.onrender.com
 
 ## Features
 
